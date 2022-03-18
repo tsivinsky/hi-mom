@@ -1,0 +1,16 @@
+{
+  "name": "hi-mom",
+  "version": "0.0.0",
+  "description": "A blazingly fast JavaScript library to say hi to your mom!",
+  "main": "index.js",
+  "keywords": [
+    "hello-world",
+    "hello",
+    "hi",
+    "mom",
+    "hi-mom"
+  ],
+  "author": "Daniil Tsivinsky",
+  "license": "MIT",
+  "type": "module"
+}
