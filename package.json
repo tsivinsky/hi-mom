@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "A blazingly fast JavaScript library to say hi to your mom!",
   "main": "index.js",
+  "types": "index.d.ts",
   "keywords": [
     "hello-world",
     "hello",
