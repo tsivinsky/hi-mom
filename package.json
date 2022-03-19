@@ -1,6 +1,6 @@
 {
   "name": "hi-mom",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A blazingly fast JavaScript library to say hi to your mom!",
   "main": "index.js",
   "types": "index.d.ts",
