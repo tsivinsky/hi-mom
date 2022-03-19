@@ -9,7 +9,7 @@ export default defineConfig({
       exports: "auto",
     },
     {
-      file: "./lib/hi-mom.js",
+      file: "./lib/hi-mom.esm.js",
       format: "esm",
       exports: "auto",
     },

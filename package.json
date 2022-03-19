@@ -18,6 +18,13 @@
     "rollup": "^2.70.1"
   },
   "scripts": {
-    "build": "rollup -c rollup.config.js"
+    "build": "rollup -c rollup.config.js",
+    "prepublishOnly": "npm run build"
+  },
+  "exports": {
+    ".": {
+      "require": "./lib/hi-mom.cjs",
+      "import": "./lib/hi-mom.esm.js"
+    }
   }
 }
