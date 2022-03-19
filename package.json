@@ -13,5 +13,11 @@
   ],
   "author": "Daniil Tsivinsky",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "rollup": "^2.70.1"
+  },
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  }
 }
