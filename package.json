@@ -26,5 +26,8 @@
       "require": "./lib/hi-mom.cjs",
       "import": "./lib/hi-mom.esm.js"
     }
-  }
+  },
+  "files": [
+    "lib/"
+  ]
 }
