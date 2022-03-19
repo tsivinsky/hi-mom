@@ -28,6 +28,7 @@
     }
   },
   "files": [
-    "lib/"
+    "lib/",
+    "index.d.ts"
   ]
 }
