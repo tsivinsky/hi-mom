@@ -13,5 +13,11 @@ export default defineConfig({
       format: "esm",
       exports: "auto",
     },
+    {
+      file: "./lib/hi-mom.umd.js",
+      format: "umd",
+      exports: "auto",
+      name: "hiMom",
+    },
   ],
 });

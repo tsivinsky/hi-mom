@@ -16,6 +16,12 @@ yarn add hi-mom
 npm i hi-mom
 ```
 
+#### unpkg.com (UMD)
+
+```html
+<script src="https://unpkg.com/hi-mom/lib/hi-mom.umd.js"></script>
+```
+
 ## Usage
 
 #### CommonJS
