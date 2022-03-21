@@ -15,11 +15,16 @@
   "license": "MIT",
   "type": "module",
   "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1",
     "rollup": "^2.70.1"
   },
   "scripts": {
+    "prebuild": "npm run test",
     "build": "rollup -c rollup.config.js",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "test": "jest"
   },
   "exports": {
     ".": {
