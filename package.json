@@ -24,7 +24,8 @@
     "prebuild": "npm run test",
     "build": "rollup -c rollup.config.js",
     "prepublishOnly": "npm run build",
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "exports": {
     ".": {
