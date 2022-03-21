@@ -39,3 +39,9 @@ import { hiMom } from "hi-mom";
 
 console.log(hiMom()); // Hi, mom!
 ```
+
+#### Browser (UMD)
+
+```javascript
+console.log(hiMom.hiMom());
+```
