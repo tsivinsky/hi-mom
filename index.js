@@ -1,3 +1,4 @@
 export function hiMom() {
-  return "Hi, mom!";
+  const language = window !== "undefined" ? window.navigator.language : "en-US";
+  return language === "en-US"  ?  "Hi, mom!" : "Hi, mum!";
 }
