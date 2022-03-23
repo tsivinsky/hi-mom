@@ -1,3 +1,3 @@
 export function hiMom() {
-  return "Hi, mom!";
+  console.log("Hi, mom!");
 }

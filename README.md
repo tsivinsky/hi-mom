@@ -29,7 +29,7 @@ npm i hi-mom
 ```javascript
 const { hiMom } = require("hi-mom");
 
-console.log(hiMom()); // Hi, mom!
+hiMom(); // Hi, mom!
 ```
 
 #### ES Modules
@@ -37,11 +37,11 @@ console.log(hiMom()); // Hi, mom!
 ```javascript
 import { hiMom } from "hi-mom";
 
-console.log(hiMom()); // Hi, mom!
+hiMom(); // Hi, mom!
 ```
 
 #### Browser (UMD)
 
 ```javascript
-console.log(hiMom.hiMom());
+hiMom.hiMom(); // Hi, mom!
 ```
