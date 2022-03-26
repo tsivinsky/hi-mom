@@ -9,5 +9,5 @@ test("should not say hi to dad", () => {
 });
 
 test("should say hi to Mother when requested", () => {
-  expect(hiMom('Mother')).toBe("Hi, Mother!");
+  expect(hiMom("Mother")).toBe("Hi, Mother!");
 });
