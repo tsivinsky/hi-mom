@@ -45,3 +45,13 @@ console.log(hiMom()); // Hi, mom!
 ```javascript
 console.log(hiMom.hiMom());
 ```
+
+#### custom mother name
+
+```javascript
+import { hiMom } from "hi-mom";
+
+console.log(hiMom("Mother")); // Hi, mum!
+```
+
+PR: #9
