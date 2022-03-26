@@ -35,6 +35,7 @@
   },
   "files": [
     "lib/",
+    "lang/",
     "index.d.ts"
   ]
 }
