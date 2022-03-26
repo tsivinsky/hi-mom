@@ -23,3 +23,7 @@ test("should say hi to Mother in french when requested", () => {
 test("should throw error when requested", () => {
   expect(() => hiMom("", "")).toThrowError(/language/i);
 });
+
+test("should say to mom in russian", () => {
+  expect(hiMom("", "ru")).toBe("Привет, мама!");
+});

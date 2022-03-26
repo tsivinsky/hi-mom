@@ -5,4 +5,5 @@ export default {
   fr: "Salut, {{maman}}!",
   it: "Ciao {{mamma}}!",
   pt: "Oi, {{mãe}}!",
+  ru: "Привет, {{мама}}!",
 };
