@@ -1,3 +1,3 @@
-export function hiMom() {
-  return "Hi, mom!";
+export function hiMom(motherName = 'mom') {
+  return `Hi, ${motherName}!`;
 }

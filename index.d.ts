@@ -1,1 +1,1 @@
-export function hiMom(): string;
+export function hiMom(motherName?: string): string;
