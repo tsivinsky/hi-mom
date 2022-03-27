@@ -82,3 +82,4 @@ console.log(hiMom("Mother")); // Hi, mum!
 - ro - Romanian
 - ua - Ukrainian
 - zh - Zhongwen
+- si - Sinhala
