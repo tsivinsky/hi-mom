@@ -30,4 +30,4 @@ test("should say to mom in russian", () => {
 
 test("nl-Be should not say the same then nl-NL", () => {
   expect(hiMom("", "nl-BE")).not.toBe(hiMom("", "nl-NL"));
-})
+});
