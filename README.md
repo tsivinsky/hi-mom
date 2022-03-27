@@ -54,4 +54,31 @@ import { hiMom } from "hi-mom";
 console.log(hiMom("Mother")); // Hi, mum!
 ```
 
-PR: #9
+## Languages supported
+
+- en - English
+- en-AU Australian English
+- de - German
+- fr - French
+- it - Italian
+- pt - Portuguese
+- ru - Russian
+- nl-NL - Dutch
+- nl-BE - Flemish
+- cn - Chinese
+- es - Spanish
+- ja - Japanese
+- ko - Korean
+- tr - Turkish
+- th - Thai
+- vi - Vietnamese
+- id - Indonesian
+- ms - Malay
+- ca - Catalan
+- cs - Czech
+- he - Hebrew
+- hu - Hungarian
+- pl - Polish
+- ro - Romanian
+- ua - Ukrainian
+- zh - Zhongwen
