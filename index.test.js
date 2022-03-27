@@ -27,3 +27,7 @@ test("should throw error when requested", () => {
 test("should say to mom in russian", () => {
   expect(hiMom("", "ru")).toBe("Привет, мама!");
 });
+
+test("nl-Be should not say the same then nl-NL", () => {
+  expect(hiMom("", "nl-BE")).not.toBe(hiMom("", "nl-NL"));
+})
