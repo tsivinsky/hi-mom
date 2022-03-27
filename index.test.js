@@ -20,6 +20,11 @@ test("should say hi to Mother in french when requested", () => {
   expect(hiMom("Mother", "fr")).toContain("Mother");
 });
 
+test("should say hi to Mother in arabic when requested", () => {
+  expect(hiMom("", "ar-IQ")).toContain("يمه")
+})
+
+
 test("should throw error when requested", () => {
   expect(() => hiMom("", "")).toThrowError(/language/i);
 });
