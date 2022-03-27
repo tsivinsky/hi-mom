@@ -80,5 +80,5 @@ console.log(hiMom("Mother")); // Hi, mum!
 - hu - Hungarian
 - pl - Polish
 - ro - Romanian
-- uk - Ukrainian
+- ua - Ukrainian
 - zh - Zhongwen
