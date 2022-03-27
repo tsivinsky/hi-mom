@@ -57,11 +57,14 @@ console.log(hiMom("Mother")); // Hi, mum!
 ## Languages supported
 
 - en - English
+- en-AU Australian English
 - de - German
 - fr - French
 - it - Italian
 - pt - Portuguese
 - ru - Russian
+- nl-NL - Dutch
+- nl-BE - Flemish
 - cn - Chinese
 - es - Spanish
 - ja - Japanese
