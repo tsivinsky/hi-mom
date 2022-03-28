@@ -31,3 +31,7 @@ test("should say to mom in russian", () => {
 test("nl-Be should not say the same then nl-NL", () => {
   expect(hiMom("", "nl-BE")).not.toBe(hiMom("", "nl-NL"));
 });
+
+test("should say hi to mom in tamil when requested", () => {
+  expect(hiMom("", "ta")).toContain("வணக்கம் அம்மா");
+});

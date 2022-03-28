@@ -69,6 +69,7 @@ console.log(hiMom("Mother")); // Hi, mum!
 - es - Spanish
 - ja - Japanese
 - ko - Korean
+- ta - Tamil
 - tr - Turkish
 - th - Thai
 - vi - Vietnamese
