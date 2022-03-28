@@ -56,35 +56,35 @@ console.log(hiMom("Mother")); // Hi, mum!
 
 ## Languages supported
 
-- en - English
-- en-AU - Australian English
-- de - German
-- fr - French
-- it - Italian
-- pt - Portuguese
-- ru - Russian
-- nl-NL - Dutch
-- nl-BE - Flemish
-- cn - Chinese
-- es - Spanish
-- ja - Japanese
-- ko - Korean
-- ta - Tamil
-- tr - Turkish
-- th - Thai
-- vi - Vietnamese
-- id - Indonesian
-- ms - Malay
-- ca - Catalan
-- cs - Czech
-- he - Hebrew
-- hu - Hungarian
-- pl - Polish
-- ro - Romanian
-- ua - Ukrainian
-- zh - Zhongwen
-- si - Sinhala
 - ar - Arabic
 - ar-IQ - Iraqi Arabic
-- sr - Serbian
+- ca - Catalan
+- cn - Chinese
+- cs - Czech
+- de - German
+- en - English
+- en-AU - Australian English
+- es - Spanish
+- fr - French
+- he - Hebrew
 - hi - Hindi
+- hu - Hungarian
+- id - Indonesian
+- it - Italian
+- ja - Japanese
+- ko - Korean
+- ms - Malay
+- nl-BE - Flemish
+- nl-NL - Dutch
+- pl - Polish
+- pt - Portuguese
+- ro - Romanian
+- ru - Russian
+- si - Sinhala
+- sr - Serbian
+- ta - Tamil
+- th - Thai
+- tr - Turkish
+- ua - Ukrainian
+- vi - Vietnamese
+- zh - Zhongwen
