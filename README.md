@@ -57,7 +57,7 @@ console.log(hiMom("Mother")); // Hi, mum!
 ## Languages supported
 
 - en - English
-- en-AU Australian English
+- en-AU - Australian English
 - de - German
 - fr - French
 - it - Italian
@@ -69,6 +69,7 @@ console.log(hiMom("Mother")); // Hi, mum!
 - es - Spanish
 - ja - Japanese
 - ko - Korean
+- ta - Tamil
 - tr - Turkish
 - th - Thai
 - vi - Vietnamese
@@ -85,3 +86,5 @@ console.log(hiMom("Mother")); // Hi, mum!
 - si - Sinhala
 - ar - Arabic
 - ar-IQ - Iraqi Arabic
+- sr - Serbian
+- hi - Hindi
