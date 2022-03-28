@@ -57,7 +57,7 @@ console.log(hiMom("Mother")); // Hi, mum!
 ## Languages supported
 
 - en - English
-- en - AU Australian English
+- en-AU - Australian English
 - de - German
 - fr - French
 - it - Italian
