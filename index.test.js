@@ -32,6 +32,10 @@ test("should say hi to Mother in arabic when requested", () => {
   expect(hiMom("", "ar-IQ")).toContain("يمه");
 });
 
+test("should say hi to Mother in darija (Moroccan Arabic) when requested", () => {
+  expect(hiMom("", "ar-MA")).toContain("ماما");
+});
+
 test("nl-Be should not say the same as nl-NL when requested", () => {
   expect(hiMom("", "nl-BE")).not.toBe(hiMom("", "nl-NL"));
 });
