@@ -40,6 +40,10 @@ test("nl-Be should not say the same as nl-NL when requested", () => {
   expect(hiMom("", "nl-BE")).not.toBe(hiMom("", "nl-NL"));
 });
 
+test("should say hi to Mother in assamese when requested", () => {
+  expect(hiMom("", "as")).toContain("অ' মা");
+});
+
 test("should throw error when requested", () => {
   expect(() => hiMom("", "")).toThrowError(/language/i);
 });
