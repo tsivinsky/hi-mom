@@ -27,7 +27,7 @@ export default {
   sr: "Ćao, {{mama}}!",
   ta: "வணக்கம் {{அம்மா}}",
   th: "สวัสดีค่ะ, {{มา}}!",
-  tr: "Merhaba, {{baba}}!",
+  tr: "Merhaba, {{anne}}!",
   ua: "Привіт, {{мама}}!",
   vi: "Xin chào, {{mẹ}}!",
   zh: "你好，{{妈妈}}!",
