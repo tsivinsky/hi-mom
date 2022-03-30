@@ -51,7 +51,7 @@ console.log(hiMom.hiMom());
 ```javascript
 import { hiMom } from "hi-mom";
 
-console.log(hiMom("Mother")); // Hi, mum!
+console.log(hiMom("Mother")); // Hi, Mother!
 ```
 
 ## Languages supported
