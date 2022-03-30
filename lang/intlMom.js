@@ -13,7 +13,7 @@ export default {
   fr: "Salut, {{maman}}!",
   he: "שלום, {{מה}}!",
   hi: "नमस्ते {{मम्मी}}!",
-  hu: "Szia, {{anyá}}!",
+  hu: "Szia, {{anya}}!",
   id: "Hai, {{ibu}}!",
   it: "Ciao {{mamma}}!",
   ja: "こんにちは、{{ママ}}!",
