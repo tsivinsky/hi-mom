@@ -12,3 +12,17 @@ export function hiMom(
   motherName?: string,
   motherLang?: keyof typeof intlMom
 ): string;
+
+/**
+ * Say hi to multiple moms blazingly fast!
+ * @param mother Your moms
+ * @example
+ * import { hiMoms } from "hi-mom";
+ * console.log(hiMoms([
+ *  { lang: "en" },
+ *  { lang: "si" },
+ * ]])); // Hi, mom! ආයුබෝවන්, අම්මේ!
+ */
+export function hiMoms(
+  mothers: string | { name?: string, lang?: keyof typeof intlMom }[]
+): string;

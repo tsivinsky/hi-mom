@@ -11,3 +11,13 @@ export function hiMom(motherName, motherLang = "en") {
 
   return greeting.replace(re, motherName || mom);
 }
+
+export function hiMoms(mothers) {
+  if (typeof mothers == "string") {
+    return hiMom(mothers);
+  } else if (mothers instanceof Array) {
+    return mothers.map(mother => hiMom(mother?.name, mother?.lang)).join(" ");
+  }
+
+  throw new Error("Mother type not supported, but hi mom anyway!");
+}
