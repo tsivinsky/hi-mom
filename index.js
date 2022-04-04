@@ -5,11 +5,11 @@ export function hiMom(motherName, motherLang = "en") {
     throw new Error("Language not yet supported, but hi mom anyway!");
   }
 
-  let re = /{{([\s\S]+)}}/;
-  let greeting = intlMom[motherLang];
-  let mom = greeting.match(re)[0].slice(2, -2);
+  const regex = /\{{2}([^}]+)\}{2}/;
+  const greeting = intlMom[motherLang];
+  const momName = greeting.split(regex)[1];
 
-  return greeting.replace(re, motherName || mom);
+  return greeting.replace(regex, motherName || momName);
 }
 
 export function hiMoms(mothers) {
