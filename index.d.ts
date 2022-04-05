@@ -1,4 +1,4 @@
-import languages from "./languages";
+import languages from "./languages/index";
 
 /**
  * Say hi to your mom blazingly fast!
