@@ -24,5 +24,5 @@ export function hiMom(
  * ]])); // Hi, mom! ආයුබෝවන්, අම්මේ!
  */
 export function hiMoms(
-  mothers: string | { name?: string, lang?: keyof typeof intlMom }[]
+  mothers: string | { name?: string; lang?: keyof typeof intlMom }[]
 ): string;
