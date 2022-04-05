@@ -2,20 +2,20 @@ import intlMom from "./languages/index";
 
 /**
  * Say hi to your mom blazingly fast!
- * @param motherName Mother's name
- * @param motherLang Language of your mother
+ * @param name Mother's name
+ * @param language Language of your mother
  * @example
  * import { hiMom } from "hi-mom";
  * console.log(hiMom()); // Hi, mom!
  */
 export function hiMom(
-  motherName?: string,
-  motherLang?: keyof typeof intlMom
+  name?: string,
+  language?: keyof typeof intlMom = "en"
 ): string;
 
 /**
  * Say hi to multiple moms blazingly fast!
- * @param mother Your moms
+ * @param mothers Your moms
  * @example
  * import { hiMoms } from "hi-mom";
  * console.log(hiMoms([
