@@ -1,4 +1,4 @@
-import intlMom from "./lang/intlMom";
+import intlMom from "./languages/index.js";
 
 /**
  * Say hi to your mom blazingly fast!

@@ -1,4 +1,4 @@
-import languages from "./languages";
+import languages from "./languages/index.js";
 
 /**
  * A blazingly fast way to say hi to your mom!
