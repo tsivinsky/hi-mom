@@ -24,6 +24,10 @@ test("should say hi to mom in russian when requested", () => {
   expect(hiMom("", "ru")).toBe("Привет, мама!");
 });
 
+test("should say hi to mom in persian when requested", () => {
+  expect(hiMom("", "fa")).toContain("مامان");
+});
+
 test("should say hi to Mother in french when requested", () => {
   expect(hiMom("Mother", "fr")).toContain("Mother");
 });

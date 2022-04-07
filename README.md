@@ -66,6 +66,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - en - English
 - en-AU - Australian English
 - es - Spanish
+- fa - Persian
 - fr - French
 - he - Hebrew
 - hi - Hindi
