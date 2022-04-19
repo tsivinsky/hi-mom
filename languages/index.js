@@ -3,6 +3,7 @@ export default {
   "ar-IQ": "هلا, {{يمه}}!",
   as: "মা, {{অ' মা}}",
   "ar-MA": "سلام، {{ماما}}",
+  az: 'Salam, {{ana}}!',
   ca: "Hola, {{mamà}}!",
   cn: "你好，{{妈妈}}!",
   cs: "Ahoj, {{mamá}}!",
