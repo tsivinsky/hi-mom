@@ -48,6 +48,10 @@ test("should say hi to Mother in assamese when requested", () => {
   expect(hiMom("", "as")).toContain("অ' মা");
 });
 
+test("should say hi to mom in pirate speak when requested", () => {
+  expect(hiMom("", "en-PT")).toContain("Ahoy,");
+});
+
 test("should say hi to Mother in azerbaijani when requested", () => {
   expect(hiMom("", "az")).toBe("Salam, ana!");
 });
