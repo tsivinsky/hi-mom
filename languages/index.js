@@ -10,6 +10,7 @@ export default {
   de: "Hallo, {{Mama}}!",
   en: "Hi, {{mom}}!",
   "en-AU": "Hi, {{mum}}!",
+  "en-PT": "Ahoy, {{mom}}!",
   es: "Hola, {{mamá}}!",
   fa: "سلام، {{مامان}}!",
   fr: "Salut, {{maman}}!",
