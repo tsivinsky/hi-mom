@@ -21,6 +21,7 @@ export default {
   it: "Ciao {{mamma}}!",
   ja: "こんにちは、{{ママ}}!",
   ko: "안녕하세요, {{마모}}!",
+  lt: "Labas, {{mama}}!",
   ms: "Hai, {{bapa}}!",
   "nl-BE": "Hallo, {{moeke}}!",
   "nl-NL": "Hallo, {{moeder}}!",
