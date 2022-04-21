@@ -77,6 +77,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - it - Italian
 - ja - Japanese
 - ko - Korean
+- lt - Lithuanian
 - ms - Malay
 - nl-BE - Flemish
 - nl-NL - Dutch
