@@ -10,7 +10,7 @@ import languages from "./languages/index";
  */
 export function hiMom(
   name?: string,
-  language?: keyof typeof languages = "en"
+  language: keyof typeof languages = "en"
 ): string;
 
 /**
