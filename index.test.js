@@ -20,7 +20,7 @@ test("should say hi to mom in german when requested", () => {
   expect(hiMom("", "de")).toContain("Hallo");
 });
 
-test("should say hi to mom in german when requested", () => {
+test("should say hi to mom in danish when requested", () => {
   expect(hiMom("", "da")).toContain("Hej");
 });
 
