@@ -64,6 +64,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - cn - Chinese
 - cs - Czech
 - de - German
+- da - Danish
 - en - English
 - en-AU - Australian English
 - en-PT - Pirate Speak
