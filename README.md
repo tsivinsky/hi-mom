@@ -88,5 +88,6 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - th - Thai
 - tr - Turkish
 - ua - Ukrainian
+- ur - Urdu
 - vi - Vietnamese
 - zh - Zhongwen
