@@ -4,6 +4,7 @@ export default {
   as: "মা, {{অ' মা}}",
   "ar-MA": "سلام، {{ماما}}",
   az: 'Salam, {{ana}}!',
+  bg: "Здрасти, {{мамо}}!",
   ca: "Hola, {{mamà}}!",
   cn: "你好，{{妈妈}}!",
   cs: "Ahoj, {{mamá}}!",
