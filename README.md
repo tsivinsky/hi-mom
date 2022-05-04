@@ -60,6 +60,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - ar-IQ - Iraqi Arabic
 - as - Assamese
 - az - Azerbaijani
+- bg - Bulgarian
 - ca - Catalan
 - cn - Chinese
 - cs - Czech
