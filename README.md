@@ -79,6 +79,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - it - Italian
 - ja - Japanese
 - ko - Korean
+- kaa - Karakalpak
 - lt - Lithuanian
 - ms - Malay
 - nl-BE - Flemish
