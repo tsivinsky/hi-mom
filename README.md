@@ -84,6 +84,9 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - ms - Malay
 - nl-BE - Flemish
 - nl-NL - Dutch
+- no - Norwegian
+- no-NB - Norwegian Bokmål
+- no-NN - Norwegian Nynorsk
 - pl - Polish
 - pt - Portuguese
 - ro - Romanian
