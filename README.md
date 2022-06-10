@@ -88,6 +88,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - pt - Portuguese
 - ro - Romanian
 - ru - Russian
+- se - Swedish
 - si - Sinhala
 - sr - Serbian
 - ta - Tamil
