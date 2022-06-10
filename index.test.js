@@ -60,6 +60,10 @@ test("should say hi to Mother in azerbaijani when requested", () => {
   expect(hiMom("", "az")).toBe("Salam, ana!");
 });
 
+test("should say hi to Mother in Swedish and not Bork Bork!", () => {
+  expect(hiMom("", "se")).toBe("Hej, mamma!");
+});
+
 test("should throw error when requested", () => {
   expect(() => hiMom("", "")).toThrowError(/language/i);
 });
