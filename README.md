@@ -74,6 +74,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - fr - French
 - he - Hebrew
 - hi - Hindi
+- hr - Croatian
 - hu - Hungarian
 - id - Indonesian
 - it - Italian

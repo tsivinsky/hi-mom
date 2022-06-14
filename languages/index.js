@@ -18,6 +18,7 @@ export default {
   fr: "Salut, {{maman}}!",
   he: "שלום, {{מה}}!",
   hi: "नमस्ते {{मम्मी}}!",
+  hr: "Bok, {{mama}}!",
   hu: "Szia, {{anya}}!",
   id: "Hai, {{ibu}}!",
   it: "Ciao {{mamma}}!",
