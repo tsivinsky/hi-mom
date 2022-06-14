@@ -72,6 +72,10 @@ test("should say hi to Mother in Norwegian Nynorsk when requested", () => {
   expect(hiMom("", "no-NN")).toBe("Hei, mamma!");
 });
 
+test("should say hi to Mother in Croatian when requested", () => {
+  expect(hiMom("", "hr")).toBe("Bok, mama!");
+});
+
 test("should throw error when requested", () => {
   expect(() => hiMom("", "")).toThrowError(/language/i);
 });
