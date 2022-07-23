@@ -41,6 +41,7 @@ export default {
   sr: "Ćao, {{mama}}!",
   ta: "வணக்கம் {{அம்மா}}",
   th: "สวัสดีค่ะ, {{มา}}!",
+  tl: "Kamusta po, {{nanay}}!",
   tr: "Merhaba, {{anne}}!",
   tm: "Salam, {{eje}}!",
   ua: "Привіт, {{мама}}!",
