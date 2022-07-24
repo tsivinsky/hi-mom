@@ -97,6 +97,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - sr - Serbian
 - ta - Tamil
 - th - Thai
+- tl - Filipino
 - tr - Turkish
 - tm - Turkmen
 - ua - Ukrainian
