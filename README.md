@@ -90,6 +90,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - no-NN - Norwegian Nynorsk
 - pl - Polish
 - pt - Portuguese
+- qt - Crimean
 - ro - Romanian
 - ru - Russian
 - se - Swedish
