@@ -49,4 +49,5 @@ export default {
   vi: "Xin chào, {{mẹ}}!",
   zh: "你好，{{妈妈}}!",
   ug:"سالام، {{ئاپا}}!",
+  qt: "Selâm, {{anam}}!",
 };
