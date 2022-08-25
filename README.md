@@ -105,3 +105,4 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - ur - Urdu
 - vi - Vietnamese
 - zh - Zhongwen
+- ug - Uyghur
