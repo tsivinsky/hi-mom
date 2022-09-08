@@ -23,7 +23,7 @@ export default {
   id: "Hai, {{ibu}}!",
   it: "Ciao {{mamma}}!",
   ja: "こんにちは、{{ママ}}!",
-  ko: "안녕하세요, {{마모}}!",
+  ko: "안녕, {{엄마}}!",
   kaa: "Sálem, {{anajan}}!",
   lt: "Labas, {{mama}}!",
   ms: "Hai, {{bapa}}!",
