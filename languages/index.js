@@ -26,6 +26,7 @@ export default {
   ko: "안녕, {{엄마}}!",
   kaa: "Sálem, {{anajan}}!",
   lt: "Labas, {{mama}}!",
+  mar: "नमस्कार, {{आई}}!",
   ms: "Hai, {{bapa}}!",
   "nl-BE": "Hallo, {{moeke}}!",
   "nl-NL": "Hallo, {{moeder}}!",
@@ -48,6 +49,6 @@ export default {
   ur: "سلام، {{امی}}",
   vi: "Xin chào, {{mẹ}}!",
   zh: "你好，{{妈妈}}!",
-  ug:"سالام، {{ئاپا}}!",
+  ug: "سالام، {{ئاپا}}!",
   qt: "Selâm, {{anam}}!",
 };
