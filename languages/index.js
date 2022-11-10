@@ -27,6 +27,7 @@ export default {
   kaa: "Sálem, {{anajan}}!",
   lt: "Labas, {{mama}}!",
   mar: "नमस्कार, {{आई}}!",
+  ml: "ഹായ്, {{അമ്മേ}}!",
   ms: "Hai, {{bapa}}!",
   "nl-BE": "Hallo, {{moeke}}!",
   "nl-NL": "Hallo, {{moeder}}!",
