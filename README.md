@@ -83,6 +83,7 @@ console.log(hiMom("Mother")); // Hi, Mother!
 - kaa - Karakalpak
 - lt - Lithuanian
 - mar - Marathi
+- ml - Malayalam
 - ms - Malay
 - nl-BE - Flemish
 - nl-NL - Dutch
