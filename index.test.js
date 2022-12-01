@@ -81,11 +81,15 @@ test("should say hi to Mother in Filipino when requested", () => {
 });
 
 test("should say hi to Mother in Crimean when requested", () => {
-  expect(hiMom("", "qt")).toBe("Selâm, anam!")
+  expect(hiMom("", "qt")).toBe("Selâm, anam!");
 });
 
 test("should say hi to Mother in Marathi when requested", () => {
-  expect(hiMom("", "mar")).toBe("नमस्कार, आई!")
+  expect(hiMom("", "mar")).toBe("नमस्कार, आई!");
+});
+
+test("should say hi to mom in Bengali when requested", () => {
+  expect(hiMom("", "bn")).toBe("নমস্কার, মা!");
 });
 
 test("should throw error when requested", () => {
